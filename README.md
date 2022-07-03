@@ -1,2 +1,2 @@
 # kube
-## contains yaml files for deploymen, service, configMap and secrets
+## contains yaml files for deployment, service, configMap and secrets
